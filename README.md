@@ -20,3 +20,5 @@ git clone https://github.com/MusaRasa/mathematics-for-AI.git
 cd mathematics-for-AI
 pip install numpy scipy matplotlib sympy
 jupyter notebook notebooks/Linear_Algebra_for_ML.ipynb
+*** PhoneNumber: 0792344054.
+*** Email:mosarasafaroqi@gmail.com
